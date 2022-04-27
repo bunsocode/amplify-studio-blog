@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3studiodemostoragef02c1813",
+  "bucketName": "studiodemo-storage-f02c1813",
+  "policyUUID": "1fffc928",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
